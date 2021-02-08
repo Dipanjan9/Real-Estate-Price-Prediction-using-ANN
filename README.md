@@ -1,1 +1,1 @@
-# Real-Estate-Price-Prediction-using-Bidirectional-LSTM
+# Real-Estate-Price-Prediction-using-ANN
